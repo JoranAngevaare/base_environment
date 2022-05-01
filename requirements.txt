@@ -49,7 +49,7 @@ pyarrow==6.0.1   # Necessary for pandas feather i/o
 pymongo==3.12.0
 pytest==6.2.5
 pytest-runner==5.3.1
-reprox==0.1.0
+reprox==0.2.2
 scikit-learn==1.0.2
 scipy==1.8.0
 seaborn==0.11.2
