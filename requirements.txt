@@ -25,7 +25,7 @@ jedi==0.17.2                                       # upgrading to 0.18.0 breaks 
 jupyter==1.0.0
 jupyter-resource-usage==0.6.1                      # Memory viewer for notebooks
 jupyterlab==3.4.3
-keras==2.9.0
+keras==2.11.0
 line_profiler==3.5.1
 llvmlite==0.38.1                                   # numba dependency
 lz4==4.0.1                                         # Strax dependency
