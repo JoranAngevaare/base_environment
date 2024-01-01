@@ -91,5 +91,5 @@ wfsim==1.1.0
 xarray==2023.5.0
 xe-admix==1.0.13
 xedocs==0.2.25
-xgboost==1.7.5
+xgboost==2.0.3
 zstd==1.5.5.1                                      # strax dependency
